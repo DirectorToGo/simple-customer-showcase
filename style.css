@@ -186,5 +186,6 @@ a:visited {
 }
 
 #card-description p {
-    padding: 2em;
+    padding: 1.5em;
+    padding-top: 1em;
 }
